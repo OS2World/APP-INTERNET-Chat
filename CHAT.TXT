@@ -1,0 +1,21 @@
+chat v1.0 : by dink (dink@r0x.com / http://www.r0x.com/~dink)
+
+- disclaimer -
+bleh.  if this program screws up something, and you come complaining to me;
+i will find you, and i will kill you.
+
+- info -
+this program will let you have a little 'chatter' thinggy on your system.
+just run chat.exe with a number of your choice, then telnet to it.
+(and have your friends telnet to it!! :)
+
+example: chat.exe 1234
+then telnet to yoursystem.com 1234
+
+- extra -
+i got bored the other day, so i deceided to write something, and this was
+born.  i also included the source code in case you are curious.
+sorry, but i can not give out the 'sock' unit.  if you really need
+a tcp/ip unit for virtual pascal/2, head on over to:
+http://www.fprint.co.uk/vpascal
+
