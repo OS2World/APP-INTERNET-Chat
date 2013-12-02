@@ -10,6 +10,7 @@ LICENSE
 COMPILE TOOLS
 ===============
 * Pascal
+* Virtual Pascal/2
 
 AUTHORS
 ===============
